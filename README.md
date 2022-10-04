@@ -4,6 +4,8 @@ I am presenting a sample of the results I acquired throughout my time at the Vic
 
 For the sake of privacy I have ommitted labels and legends from the figures as this work is not published yet. However, we are currently wrapping up experiments and are hoping to have the paper ready to publish.  
 
+The data was analysed through Excel and GraphPad prism. The data was visualised using GraphPad Prism
+
 ## Results
 ### Sample Figure 1
 ![This is an image](https://github.com/joshuadunn1/Genes-Role-on-Vascular-Calcification/blob/main/Figure2_GIT_Cropped.png)
