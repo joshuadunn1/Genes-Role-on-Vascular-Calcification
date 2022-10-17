@@ -2,7 +2,7 @@
   
 I am presenting a __sample__ of the results I acquired throughout my time at the Victor Chang Research Institute as a research assistant. These results are from a project I lead which involved looking at the role and mechanism of a gene we are very interested in on a vascular disease called Vascular Calcification.  
 
-For the sake of privacy I have ommitted labels and legends from the figures as this work is not published yet. However, we are currently wrapping up experiments and are hoping to have the paper ready to publish.  
+For the sake of privacy, as the work is yet to be published, I have ommitted labels and legends from the figures. However, we are currently wrapping up experiments and are hoping to have the paper ready soon.  
 
 The data was analysed through Excel and GraphPad prism. The data was visualised using GraphPad Prism
 
